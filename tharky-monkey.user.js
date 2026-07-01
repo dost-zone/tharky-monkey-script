@@ -1,14 +1,3 @@
-// ==UserScript==
-// @name         DL NO UPDATE
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  Tankar Monkey - Secured Version
-// @author       Your Name
-// @match        https://sarathi.parivahan.gov.in/sarathiservice/mobNumUpd.do*
-// @match        https://sarathi.parivahan.gov.in/sarathiservice/*mobNumUpd*
-// @grant        none
-// ==/UserScript==
-
 (function() {
     'use strict';
 
